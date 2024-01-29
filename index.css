@@ -1,0 +1,13 @@
+ .box {
+        border: 2px solid;
+        margin: 20px;
+
+        width: 500px;
+        background-color: aqua;
+        padding: 20px;
+ }
+
+ .btn {
+        background-color: rgb(74, 14, 131);
+        border-radius: 2px;
+ }
